@@ -42,9 +42,10 @@ public class Repository {
         localizations.put("1", "-8.05428,-34.8813");
         localizations.put("2", "-9.39416,-40.5096");
         localizations.put("3", "-8.284547,-35.969863");
-        localizations.put("4", "-3.091,-59.966");
-        localizations.put("5", "-23.550520,-46.633308");
-        localizations.put("6", "-22.906847,-43.172897");
+        localizations.put("4", "-3.091,-59.966");         // Manaus - AM
+        localizations.put("5", "-23.550520,-46.633308");  // São Paulo - SP
+        localizations.put("6", "-22.906847,-43.172897");  // Rio de Janeiro -RJ
+        localizations.put("7", "-15.793889,-47.882778");  // Brasília - DF
 
         return localizations;
     }

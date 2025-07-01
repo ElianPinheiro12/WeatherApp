@@ -37,11 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
         fetchButton.setOnClickListener(v ->{
 
-                Toast.makeText(MainActivity.this, "updating", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Atualizando", Toast.LENGTH_SHORT).show();
                 mainViewModel.refreshData();
-
         });
-
-
     }
 }

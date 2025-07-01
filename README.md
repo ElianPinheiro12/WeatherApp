@@ -17,12 +17,11 @@ We use predefined latitude and longitude coordinates from various cities to fetc
 
 The app is functional, and here is a list of bug fixes that have been made:
 
-- ✅ 🔑 Add your API key to the `local.properties` file:
-`WEATHER_API_KEY= <your-api-key-here>`
-- ✅ 📊 Fetch and display **pressure** data from the API
-- ✅ 🔄 Implement data refresh on **Refresh** button click
-- ✅ 🎨 Fix broken **weather icons**
-- ✅ 🧹 Eliminate **duplicate data** issues
+- ✅ 🔑 My API key was added to the `local.properties` file as: `WEATHER_API_KEY= <your-api-key-here>`
+- ✅ 📊 Correct retrieval and display of **pressure** data from the API
+- ✅ 🔄 Implemented data update on **Refresh** button click
+- ✅ 🎨 Fixed broken **weather icons**
+- ✅ 🧹 Eliminated **duplicate data** issues
 
 ---
 

@@ -25,6 +25,7 @@ The app is functional, and here is a list of bug fixes that have been made:
 - ✅ 🔄 Implemented data update on **Refresh** button click
 - ✅ 🎨 Fixed broken **weather icons**
 - ✅ 🧹 Eliminated **duplicate data** issues
+- ✅ 🗺️ Added new cities for better visualization
 
 ---
 ## 🛠️ Development Environment

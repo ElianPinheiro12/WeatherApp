@@ -1,19 +1,22 @@
 # 🌦️ Challenge - Weather App
 
-Welcome to the **Weather App Challenge!**
-This repository contains the implementation of a simple weather application that retrieves and displays weather information using the [OpenWeather API](https://openweathermap.org/api).
+This repository contains my implementation of the Weather App Challenge, a project aimed at developing a simple Android application capable of retrieving and displaying real-time weather data using the OpenWeather API.
 
-We use predefined latitude and longitude coordinates from various cities to fetch and display detailed weather data, such as:
+The application was designed to fetch meteorological information from predefined geographic coordinates (latitude and longitude) representing various cities. It displays key weather data such as:
 
 - 🌡️ Temperature
 - 💧 Humidity
 - 🌬️ Pressure
 
+After receiving the base project, I introduced a series of enhancements and bug fixes to improve its functionality, reliability, and user experience. These updates are detailed in the section below.
+
+
+
 <img src="weather_app.gif" alt="Weather app" height="500">
 
 ---
 
-## 🚧 Current Status & To-Do List
+## ✅ Modifications Made
 
 The app is functional, and here is a list of bug fixes that have been made:
 
@@ -24,13 +27,13 @@ The app is functional, and here is a list of bug fixes that have been made:
 - ✅ 🧹 Eliminated **duplicate data** issues
 
 ---
-🛠️ Development Environment
+## 🛠️ Development Environment
 This project was developed using Android Studio Narwhal | 2025.1.1, with the following technical specifications:
 
--Build: #AI-251.25410.109.2511.13665796
--Build Date: June 18, 2025
--Runtime: OpenJDK 21.0.6+
--VM: JetBrains OpenJDK 64-Bit Server VM
--Operating System: Windows 11
--[OpenWeather API](https://openweathermap.org/api).
+- Build: #AI-251.25410.109.2511.13665796
+- Build Date: June 18, 2025
+- Runtime: OpenJDK 21.0.6+
+- VM: JetBrains OpenJDK 64-Bit Server VM
+- Operating System: Windows 11
+- [OpenWeather API](https://openweathermap.org/api).
 

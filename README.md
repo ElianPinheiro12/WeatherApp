@@ -24,5 +24,13 @@ The app is functional, and here is a list of bug fixes that have been made:
 - ✅ 🧹 Eliminated **duplicate data** issues
 
 ---
+🛠️ Development Environment
+This project was developed using Android Studio Narwhal | 2025.1.1, with the following technical specifications:
 
+-Build: #AI-251.25410.109.2511.13665796
+-Build Date: June 18, 2025
+-Runtime: OpenJDK 21.0.6+
+-VM: JetBrains OpenJDK 64-Bit Server VM
+-Operating System: Windows 11
+-[OpenWeather API](https://openweathermap.org/api).
 
